@@ -1,0 +1,10 @@
+Your Name: Jame
+Position: WasteDroid
+
+All characterists on 1-10 scale: 1 is low and 10 is highteamwork: 7.058186273338834
+futurevision: 6.093255997570873
+analytics: 7.827470906873886
+tinkering: 2.632558704488254
+collection: 3.4595504351518285
+projectmanagement: 5.824449063429574
+ambition: 2.4022222867048013

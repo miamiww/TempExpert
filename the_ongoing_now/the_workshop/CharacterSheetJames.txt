@@ -1,0 +1,13 @@
+Your Name: James
+Position: WasteDroid
+
+All characterists on 1-10 scale: 1 is low and 10 is high
+
+NaN
+teamwork: 3.678332962722272
+futurevision: 1.8883429596569998
+analytics: 2.774067106115817
+tinkering: 1.5521477685332608
+collection: 7.949278695469189
+projectmanagement: 7.931964336093503
+ambition: 9.298787604281452
