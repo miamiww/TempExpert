@@ -1,0 +1,14 @@
+{
+  "name": "the_workshop",
+  "version": "0.0.1",
+  "description": "making identities for the workshop",
+  "main": "characterGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alden jones",
+  "license": "ISC",
+  "dependencies": {
+    "random": "^2.0.12"
+  }
+}
