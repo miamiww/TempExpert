@@ -1,0 +1,44 @@
+Your Name: Steve
+Position: Associate
+
+All characterists on 1-10 scale: 1 is low and 10 is high
+
+Your characteristics: 
+teamwork: 2.913648909137301
+future vision: 2.506410076454146
+analytics: 6.135598327124757
+tinkering: 6.902387337306165
+collection: 2.525917127217013
+project management: 3.6132908379983726
+ambition: 8.975678171379624
+
+
+Your likes: 
+Becoming an addict
+Applying ruthless or twisted logic
+Being greedy
+
+
+Your dislikes: 
+Reaching compromises
+Making objective decisions
+Bearing fruit
+
+
+
+
+
+
+Job Description:
+You are the lifeblood of your team, the glue that holds them together.
+You must manage manage manage!
+Make sure that the Analysts get along.
+Fix any broken Waste Droids.
+Compile analysis from the Analysts into Reports.
+Double check the reports for errors.
+Deliver the reports to the Principal.
+Cheer along your team and make sure that everyone is doing their best.
+If you are at a loss for something to do at the moment create
+	motivational posters featuring our slogans.
+Report any growth inhibiting behavior to the Principal.
+	
