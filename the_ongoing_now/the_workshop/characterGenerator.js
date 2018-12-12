@@ -25,7 +25,7 @@ for(var i=0;i<3;i++){
 }
 
 let jobDescription = "";
-if(yourJob == "WasteDroid"){
+if(yourJob == "WasteDrone"){
 	jobDescription= 
 	`
 Job Description:
