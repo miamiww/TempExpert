@@ -113,7 +113,7 @@ fs.writeFile(f_name, charSheet, (err) => {
     // success case, the file was saved
 	console.log('Sheet saved!');
 	printer.printFile({filename:f_name,
-		printer: "_172_22_151_102", // printer name, if missing then will print to default printer
+		printer: "Canon_MG3600_series", // printer name, if missing then will print to default printer
 		success:function(jobID){
 		  console.log("sent to printer with ID: "+jobID);
 		},

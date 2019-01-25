@@ -1,0 +1,42 @@
+Your Name: James
+Position: Associate
+
+All characterists on 1-10 scale: 1 is low and 10 is high
+
+Your characteristics: 
+teamwork: 2.6003790150487864
+future vision: 7.857434262888157
+analytics: 4.398508686717655
+tinkering: 6.447734977716233
+collection: 9.074062468192903
+project management: 4.899375467714441
+ambition: 2.310942973682965
+
+
+Your likes: 
+Clinging to the past
+Allowing sour grapes to poison your moment in the sun
+Fighting the natural course of events
+
+
+Your dislikes: 
+Finding the silver lining in a dark cloud
+Working together toward a common goal
+Watching for cycles
+
+
+
+
+
+
+Job Description:
+You are the lifeblood of your team, the glue that holds them together.
+You must manage manage manage!
+Make sure that the Analysts get along.
+Fix any broken Waste Droids.
+Compile analysis from the Analysts into Reports.
+Double check the reports for errors.
+Deliver the reports to the Principal.
+Cheer along your team and make sure that everyone is doing their best.
+Report any growth inhibiting behavior to the Principal.
+	

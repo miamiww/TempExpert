@@ -1,0 +1,44 @@
+Your Name: Trashboss
+Position: Associate
+
+All characterists on 1-10 scale: 1 is low and 10 is high
+
+Your characteristics: 
+teamwork: 4.504126974164852
+future vision: 2.8103959415166844
+analytics: 1.2593091633692075
+tinkering: 8.706496007614962
+collection: 7.4955660463026526
+project management: 3.6187174284364034
+ambition: 5.396017110803616
+
+
+Your likes: 
+Being smug
+Giving up at the first sign of opposition
+Considering only the evidence that supports conclusions you've already drawn
+
+
+Your dislikes: 
+Being delighted with your own achievements
+Bearing up under incredible duress
+Doing research
+
+
+
+
+
+
+Job Description:
+You are the lifeblood of your team, the glue that holds them together.
+You must manage manage manage!
+Make sure that the Analysts get along.
+Fix any broken Waste Droids.
+Compile analysis from the Analysts into Reports.
+Double check the reports for errors.
+Deliver the reports to the Principal.
+Cheer along your team and make sure that everyone is doing their best.
+If you are at a loss for something to do at the moment create
+	motivational posters featuring our slogans.
+Report any growth inhibiting behavior to the Principal.
+	
